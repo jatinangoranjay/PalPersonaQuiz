@@ -2,8 +2,8 @@
 
 const questions = [
     {
-        question: "Q1/12: You're taking the bus on your way back home. It's been a loooong day, what are you thinking about?",
-        image: "images/Q1.gif",
+        question: "Chirpy: 1. Di hari Minggu yang cerah, apa yang suka kamu lakukan?",
+        image: "img/Q1.kc tidur.gif",
         answers: {
             F: {
                 text: "I'm just so tired and can't wait to go home. Why does everyday feel the same...",
